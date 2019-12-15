@@ -35,6 +35,8 @@ All the endpoints can be accessed as `http://localhost:8080/api/[endpoint name]`
 
 CRM endpoint is already mentioned in code along with API key. So you can access them by the same.
 
+First extract the given zip file which will give you one file named `contac_details.sql` which is the given sql file for you to import and a folder named `myApp`. To run the project go into myApp and then run the PHP local server as mentioned above.
+
 For you reference images of all the endpoint with required body and response has been attached with sent mail. Please check.
 
 For any more details and clarifications you can revert back to me on - 
