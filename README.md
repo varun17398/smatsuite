@@ -1,6 +1,8 @@
 # SmatSuite
 PHP task of smatsuite backend developer
 
+PREREQUISITES - PHP > 7, MYSQL > 5.
+
 This repo is full code for the task that you have assigned me.
 
 The core code is in a file called `Api.php` where all the endpoints have been created as asked. The Model for data manipulation from database is named as `Contact_Model.php`.
@@ -28,6 +30,8 @@ The name of the database is meant to be contact_details and the name of the tabl
   Contact table consists of 5 columns contact_id(integer and auto incremented), firstname(varchar not null), lastname(varchar not null), email(varchar not null), mobile_number(integer not null).
   
   There is an attached SQL file of the mentioned database so that you can directly import it on your local mySQL server and run it.
+  
+  To import it into your local mySQL type the following command `mysql -u username -p database_name < file_name.sql`.
   
 # Run the project
 
