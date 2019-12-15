@@ -29,6 +29,8 @@ The name of the database is meant to be contact_details and the name of the tabl
   
   There is an attached SQL file of the mentioned database so that you can directly import it on your local mySQL server and run it.
   
+# Run the project
+
 I ran the project on local PHP server using command `php -S 127.0.0.1:8080` after that I setup database on local mySQL server.
 
 All the endpoints can be accessed as `http://localhost:8080/api/[endpoint name]` with passing required parameters. mySQL server needs to be running in order to perform operation on the database.
