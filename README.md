@@ -3,7 +3,7 @@ PHP task of smatsuite backend developer
 
 This repo is full code for the task that you have assigned me.
 
-The core code is in a file called `Api.php` where all the endpoints have been created as asked. The Mode for data manipulation from database is named as `Contact_Model.php`.
+The core code is in a file called `Api.php` where all the endpoints have been created as asked. The Model for data manipulation from database is named as `Contact_Model.php`.
 
 1. addContact Endpoint - 
     
